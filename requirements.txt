@@ -11,3 +11,5 @@ onnxruntime>=1.18
 python-docx>=1.1
 
 # Colab only (installed by the notebook): ultralytics>=8.3.0
+
+pyserial

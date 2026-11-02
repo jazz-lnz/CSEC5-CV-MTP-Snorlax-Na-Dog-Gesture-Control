@@ -6,3 +6,5 @@ models/best.pt
 SnorlaxTheDog_Gestures/
 SnorlaxTheDog_Gestures-new/
 results/
+
+.DS_Store
